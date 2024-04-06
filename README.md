@@ -3,7 +3,7 @@
 To unzip the file, run the following command:
 
 ```
-unzip Admin_Recruitment_Challenge.zip
+unzip -n Admin_Recruitment_Challenge.zip
 ```
 
 To generate the Docker image, run the following command:
